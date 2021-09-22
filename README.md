@@ -2,7 +2,7 @@
 - 👀 I’m a web developer and design
 - 🌱 I’m a freelancer at Fiverr. Here is my profile link---> https://www.fiverr.com/shayan_bux786
 
-I am expert in HTML and CSS and JS. I can create beautiful landing pages or a fully responsive website with no effort.
+I am expert in HTML5 and CSS3 and JS. I can create beautiful landing pages or a fully responsive website with no effort.
 
 - 📫 How to reach me ...
 My E-mail : shayanbux2005@gmail.com
