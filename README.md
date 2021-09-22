@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ShayanBux
-- 👀 I’m a web developer and design
+- 👀 I’m a Web Developer and designer.
 - 🌱 I’m a freelancer at Fiverr. Here is my profile link---> https://www.fiverr.com/shayan_bux786
 
 I am expert in HTML5 and CSS3 and JS. I can create beautiful landing pages or a fully responsive website with no effort.
